@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Introducrion to Numerical Methods
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is a documentation of numerical methods note. This documentation is attached into https://auliakhalqillah.com
