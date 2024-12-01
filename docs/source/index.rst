@@ -7,5 +7,4 @@ Contents
 --------
 .. toctree::
 
-  index
   Solution of Nonlinear Equations
