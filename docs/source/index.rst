@@ -18,6 +18,5 @@ Numerical methods are mathematical approaches that have been widely used in scie
 More Information
 ================
 
-auliakhalqillah.mail@gmail.com
-
-`auliakhalqillah.com <https://auliakhalqillah.com>`_
+- auliakhalqillah.mail@gmail.com
+- `auliakhalqillah.com <https://auliakhalqillah.com>`_
