@@ -4,3 +4,4 @@ Solution of Nonlinear Equations
   :maxdepth: 2
   
   Bisection Method
+  Newton Raphson
