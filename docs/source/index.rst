@@ -7,4 +7,4 @@ Numerical methods are mathematical approaches that have been widely used in scie
   :caption: Topics
   :maxdepth: 2
 
-  Solution of Nonlinear Equations
+  index
