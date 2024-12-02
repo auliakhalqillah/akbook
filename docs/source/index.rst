@@ -7,5 +7,6 @@ Contents
 --------
 .. toctree::
   :caption: TUTORIAL
+  :maxdepth: 2
 
   Solution of Nonlinear Equations
