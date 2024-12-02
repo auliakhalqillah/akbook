@@ -6,6 +6,6 @@ This is a note for numerical methods. Numerical methods are mathematical approac
 Contents
 --------
 .. toctree::
-  :titlesonly: Introduction to Numerical Methods
+  :title: Introduction to Numerical Methods
 
   Solution of Nonlinear Equations
