@@ -10,3 +10,9 @@ Numerical methods are mathematical approaches that have been widely used in scie
   :maxdepth: 2
 
   Solution of Nonlinear Equations
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Testing
+
+  Bisection Method
