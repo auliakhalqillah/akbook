@@ -7,5 +7,6 @@ Contents
 --------
 .. toctree::
   :title: Introduction to Numerical Methods
+  :maxdepth: 3
 
   Solution of Nonlinear Equations
