@@ -14,7 +14,7 @@ Hi. Wellcome to my online book. In this book you will find the explanation regar
   :maxdepth: 2
 
   Fundamental Algorithm using Python
-  Solution of Nonlinear Equations
+  Numerical Methods
 
 More Information
 ================
