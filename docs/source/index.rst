@@ -1,11 +1,11 @@
-Introduction to Numerical Methods
+Wellcome to AK BOOK
 =================================
 
 .. image:: imgs/Numerical_Method_Earthquake_Science_2.webp
   :width: 1000
   :alt: Alternative text
 
-Numerical methods are mathematical approaches that have been widely used in science and engineering to solve mathematical problems. In this note, you will find an explanation of number numerical methods and their implementation by using Python programming language. Most of them are related to earthquake science context as the application to real problems. The explanation tries to be served as simply as possible and more technically, of course, it should be accompanied by the fundamental concept. Please enjoy the note 😄
+Hi. Wellcome to my online book. In this book you will find the explanation regarding fundamental algorithm, numerical methods, and specific about seismic hazard. I will share all of these topic based on my experience. I hope this will help you to gain more the knowledge in the scientific field, especially in earthquake science.
 
 .. toctree::
   :caption: Topics
