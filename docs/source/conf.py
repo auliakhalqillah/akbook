@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Numerical Methods'
+project = 'AK BOOK'
 copyright = '2024, Aulia Khalqillah'
 author = 'Aulia Khalqillah'
 
