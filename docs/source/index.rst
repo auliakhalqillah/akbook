@@ -13,8 +13,8 @@ Hi. Wellcome to my online book. In this book you will find the explanation regar
   :numbered:
   :maxdepth: 2
 
-  Solution of Nonlinear Equations
   Fundamental Algorithm using Python
+  Solution of Nonlinear Equations
 
 More Information
 ================
