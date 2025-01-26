@@ -1,7 +1,7 @@
 Articles
 ===============================
 .. toctree::
-  :maxdepth: 0
+  :maxdepth: 1
   :caption: Articles
 
   How to Plot Multiframe Using Matplotlib
