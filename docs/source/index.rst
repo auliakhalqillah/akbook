@@ -12,6 +12,7 @@ Hi. Wellcome to my online book. In this book you will find the explanation regar
   :glob:
   :numbered:
   :maxdepth: 2
+  :hidden:
 
   Fundamental Algorithm using Python
   Numerical Methods
@@ -22,6 +23,7 @@ Hi. Wellcome to my online book. In this book you will find the explanation regar
   :glob:
   :numbered:
   :maxdepth: 2
+  :hidden:
   
   Articles
 
@@ -29,4 +31,3 @@ More Information
 ================
 
 - auliakhalqillah.mail@gmail.com
-- `auliakhalqillah.com <https://auliakhalqillah.com>`_
