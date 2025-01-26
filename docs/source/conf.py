@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'AK BOOK'
+project = 'AULIA KHALQILLAH'
 copyright = '2024, Aulia Khalqillah'
 author = 'Aulia Khalqillah'
 
