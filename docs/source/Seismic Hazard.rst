@@ -1,6 +1,6 @@
 Seismic Hazard
 ===============================
 .. toctree::
-  :caption: Seismic Hazard
+  :maxdepth: 1
 
   How to Calculate Earthquake Rupture
