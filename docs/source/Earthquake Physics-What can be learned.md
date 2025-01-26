@@ -39,11 +39,11 @@ The displacement measures how far an earth structure (rock or soil) deforms from
 
 The simple mathematics approach for displacement (u), velocity (v) and acceleration (a) can be written in terms of harmonic wave as follows
 
-ux,t=Asin (ωt±kx) 
+$u(x,t)= A sin (ωt±kx)$ 
 
-vx,t=ωAcos (ωt±kx )
+$v(x,t)= ωA cos (ωt±kx)$
 
-ax,t=-2Asin (ωt±kx) 
+$a(x,t)= -2A sin (ωt±kx)$ 
 
 where the A is the amplitude of wave,  is the angular frequency, ω=2πf, k is the wavenumber, k=v=2π, t is time in second, and x is the position. Based on these equations, the movement of earth structure has the variation of the frequency and velocity. Because the earth structure is complex, the waveform from the subsurface of the earth will fluctuate over the time and different over the position as shown in Figure 2\.
 
@@ -82,11 +82,11 @@ The main-second wave type is Surface Waves. The Surface Waves consist of Rayleig
 
 By using waveform data, we can extract other magnitude parameters besides Vs30. In advance, we can estimate the seismic moment (Mo) and moment magnitude (Mw). The Mw is the earthquake size that has been introduced by Hanks and Kanamori (1979) with a title “A Moment Magnitude Scale” and widely used to inform the public in this century. The Mw is determined by using Mo through the following equation
 
-Mw=2/3 log 10Mo-6
+$M_w=2/3 log_{10} M_o-6$
 
 while the Mo can be estimated by using the following equation
 
-Mo= A D
+$M_o= A D$
 
 where the  is the shear modulus of the rocks (pascals), A is the rupture area (square meters), and D is the average slip or average displacement of fault (in meters). The common average of shear modulus is around 30 GPa or equal to 3 x 10 10 Pa for crustal rocks. In detail, it depends on the geological condition of the region. The A and D can be estimated by using Well-Coppersmith’s empirical relationship (1994).
 
@@ -107,7 +107,7 @@ Figure 5\. The illustration for estimate of focal depth schematic (Jens Havskov 
 
 In the simple mathematics form, it can be written as
 
-Z2= d2+ 2
+$Z^2= d^2 - \Delta^2$
 
 This is a very simple approximation to estimate the hypocenter. We have to notice that the earth structures are not simple. We should use the advanced or complex algorithm approximation (numerical method) to obtain the earthquake structures information in more detail. Of course it still remains an uncertainty and limitation.
 
