@@ -2,7 +2,7 @@
 
 *by: Aulia Khalqillah*
 
-![][image1]
+![eq_map](/imgs/eq_physics_mapping.png)
 
 General topics in the earthquake physics
 
