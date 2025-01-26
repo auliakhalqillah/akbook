@@ -15,6 +15,7 @@ Hi. Wellcome to my online book. In this book you will find the explanation regar
 
   Fundamental Algorithm using Python
   Numerical Methods
+  Seismic Hazard
   Articles
 
 More Information
