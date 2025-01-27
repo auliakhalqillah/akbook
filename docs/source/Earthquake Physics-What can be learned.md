@@ -23,7 +23,7 @@ Earth has a complex structure that consists of multiple layers, crust, mantle, a
 
 The mantle layer is composed of magnesium and iron. About 80% of the earth’s layer is composed of the mantle layer where the depth is up to 2900 Km. The mantle layer is divided into two sublayers, upper mantle and lower mantle. The upper mantle is called Lithosphere which is composed of bulk materials, approximately 100 Km thick. The lower mantle is called Asthenosphere which is composed of non-rigid, weak, and high temperature material. The thickness of the Asthenosphere is approximately about 700 Km. The transition zone between Lithosphere and Asthenosphere is the weak zone and both layers can separate mechanically. Since the Asthenosphere is semi-fluid, it can flow slowly and make a movement of the material above it. This means that the Listhosphere moves over the Asthesnosphere. The implication of this process is the tectonic plates which move relative to each other and in certain time, it may generate collisions between plate boundaries, that is why the earthquake can occur. We will explain more.
 
-![earthlayer](/imgs/earthsection.jpg)
+![earthlayer](/imgs/earthxsection.jpg)
 
 Figure 1\. Earth structure layers (USGS)
 
