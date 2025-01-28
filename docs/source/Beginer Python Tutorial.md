@@ -1,8 +1,8 @@
-## 1. Introduction to Python
+## Introduction to Python
 
 Python is a popular, easy-to-learn programming language used in many fields, including web development, data science, and automation. Python has a simple syntax that makes it beginner-friendly, yet it is powerful enough for professional development.
 
-## 2. How to Install Python and Run Python Code
+## How to Install Python and Run Python Code
 
 To install Python, follow these steps:
 
@@ -28,7 +28,7 @@ __Expected Output__
 Hello, World!
 ```
 
-## 3. Types of Variables
+## Types of Variables
 
 Variables in Python are used to store data values. The variable name can be anything (as long as it follows naming rules), and the type of the variable is inferred based on the value assigned to it.
 
@@ -50,7 +50,7 @@ print(type(name))  # <class 'str'>
 print(type(is_active))  # <class 'bool'>
 ```
 
-## 4. Types of Data
+## Types of Data
 
 Python has several built-in data types. Here are some of the most common:
 
@@ -74,7 +74,7 @@ print(type(my_tuple))  # <class 'tuple'>
 print(type(my_dict))  # <class 'dict'>
 ```
 
-## 5. Mathematical Operations
+## Mathematical Operations
 
 Python can handle basic mathematical operations:
 
@@ -113,7 +113,7 @@ __Output__
 3
 ```
 
-## 6. Conditional Statements (If and Else)
+## Conditional Statements (If and Else)
 
 Conditional statements allow us to execute code based on certain conditions using `if`, `elif`, and `else`.
 
@@ -134,7 +134,7 @@ __Output__
 You are an adult.
 ```
 
-## 7. Looping (For and While)
+## Looping (For and While)
 
 Loops allow us to repeat a block of code multiple times.
 
@@ -182,7 +182,7 @@ __Output__
 4
 ```
 
-## 8. Functions
+## Functions
 
 Functions are blocks of reusable code that perform a specific task.
 
