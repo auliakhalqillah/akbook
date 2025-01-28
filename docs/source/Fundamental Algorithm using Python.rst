@@ -2,6 +2,5 @@ Fundamental Algorithm using Python
 ===============================
 .. toctree::
   :maxdepth: 2
-  :caption: Fundamental Algorithm using Python
 
-  Bisection Method
+  Fundamental Algorithm using Python
