@@ -16,6 +16,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :maxdepth: 2
   :hidden:
 
+  Basic Python
   Fundamental Algorithm using Python
   Numerical Methods
   Seismic Hazard
