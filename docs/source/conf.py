@@ -7,7 +7,7 @@ copyright = '2024, Aulia Khalqillah'
 author = 'Aulia Khalqillah'
 
 release = '0.1'
-version = '0.1.0'
+version = ''
 
 # -- General configuration
 
