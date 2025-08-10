@@ -4,5 +4,5 @@ Numerical Methods
   :maxdepth: 2
   :caption: Numerical Methods
 
-Solution of Nonlinear Equations
+  Solution of Nonlinear Equations
   
