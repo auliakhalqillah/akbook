@@ -2,6 +2,6 @@ Numerical Methods
 ===============================
 .. toctree::
   :maxdepth: 2
-  :caption: Numerical Methods
+  :caption:
 
   Solution of Nonlinear Equations
