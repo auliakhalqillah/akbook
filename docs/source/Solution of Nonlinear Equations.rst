@@ -5,4 +5,5 @@ Solution of Nonlinear Equations
   :caption: Solution of Nonlinear Equations
   
   Bisection Method
+  False Position
   Newton Raphson
