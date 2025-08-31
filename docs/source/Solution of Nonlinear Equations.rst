@@ -12,3 +12,4 @@ Nonlinear equation is the mathematical function that has power more than two. It
   Bisection Method
   False Position
   Newton Raphson
+  Secant Method
