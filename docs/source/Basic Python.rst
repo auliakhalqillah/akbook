@@ -1,6 +1,7 @@
 Basic Python
 ===============================
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
 
   Beginer Python Tutorial
+  Algorithm using Python
