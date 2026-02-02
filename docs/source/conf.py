@@ -18,7 +18,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',
-    "nbsphinx"
+    "nbsphinx",
+    'sphinx_book_theme'
 ]
 
 source_suffix = {
