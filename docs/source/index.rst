@@ -14,7 +14,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :caption: Topics
   :glob:
   :numbered:
-  :maxdepth: 2
+  :maxdepth: 1
   :hidden:
 
   Basic Python
@@ -27,7 +27,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :caption: Others
   :glob:
   :numbered:
-  :maxdepth: 2
+  :maxdepth: 1
   :hidden:
   
   Articles
