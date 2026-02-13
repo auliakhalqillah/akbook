@@ -15,6 +15,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :glob:
   :numbered:
   :hidden:
+  :maxdepth: 1
 
   Basic Python
   Fundamental Algorithm using Python
@@ -28,6 +29,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :glob:
   :numbered:
   :hidden:
+  :maxdepth: 1
   
   Articles
   Important Links
