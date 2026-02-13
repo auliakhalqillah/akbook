@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'AULIA KHALQILLAH'
-copyright = '2024, Aulia Khalqillah'
+copyright = '2026, Aulia Khalqillah'
 author = 'Aulia Khalqillah'
 
 release = ''
