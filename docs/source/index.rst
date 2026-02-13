@@ -18,9 +18,9 @@ In this note, you will find the explanation regarding fundamental algorithm, num
 
   Basic Python
   Fundamental Algorithm using Python
+  Pandas
   Numerical Methods
   Seismic Hazard
-  Pandas
 
 .. toctree::
   :caption: Others
