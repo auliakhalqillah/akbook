@@ -1,6 +1,6 @@
 Machine Learning
 ===============================
 .. toctree::
-  :maxdepth:
+  :maxdepth: 1
 
   California Housing Prices
