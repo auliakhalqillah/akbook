@@ -6,7 +6,7 @@ project = 'AULIA KHALQILLAH'
 copyright = '2024, Aulia Khalqillah'
 author = 'Aulia Khalqillah'
 
-release = '0.1'
+release = ''
 version = ''
 
 # -- General configuration
