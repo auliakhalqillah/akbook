@@ -4,3 +4,4 @@ Machine Learning Practice
   :maxdepth: 1
 
   California Housing Prices
+  Loan_Eligibility_Analysis
