@@ -22,11 +22,11 @@ Probabilistic Seismic Hazard Analysis (PSHA) is the method to quantify the groun
 In general, the PSHA aims to answer the question of **how much is the annual frequency of exceedance ($\lambda$) for given a probability of exceedance (PoE) that will exceed for a greater than or equal to ground motion intensity level ($x$) and time window ($t$)** as written in equation (1) where $IMT$ is intensity measure type (PGA, PGV, or PGD) and $t$ refer to the exposure period (building life expectancy in years). The $\lambda$ is equivalent to the inverse of return period (RP).
 
 
-$$\lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = \frac {1}{RP} \tag {1}$$
+$$\lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = \frac {1}{RP}$$
 
 Hence, the return period is
 
-$$RP = \frac {1}{\lambda[IMT \ge x]} \tag {2}$$
+$$RP = \frac {1}{\lambda[IMT \ge x]}$$
 
 In the simple manner, the equation (1) describes the occurrence rate of a single event (e.g. earthquake) will occur within duration of time (return period in years) in any years.
 
@@ -69,7 +69,7 @@ In the comprehensive analysis, the PSHA is conducted through four steps.
 
     - $P[IMT \ge x | M,R]$ is the probability of ground motion intensity level greater than and equal to a certain value of $x$ as function of magnitude (M) and distance (R).
 
-        $ P[IMT \ge x | M, R] = 1 - \phi (\frac {\ln x - \overline {\ln IMT}}{\sigma_{\ln PGA}})$
+        $P[IMT \ge x | M, R] = 1 - \phi (\frac {\ln x - \overline {\ln IMT}}{\sigma_{\ln PGA}})$
 
         where the $\overline {\ln IMT}$ is the mean/median of ground motion intensity level from the GMPE and $\sigma_{\ln PGA}$ is its standard deviation
 
