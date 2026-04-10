@@ -23,6 +23,14 @@ extensions = [
     'sphinx_book_theme'
 ]
 
+mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js'
+mathjax4_config = {
+    'tex': {
+        'inlineMath': [['$', '$)']],
+        'displayMath': [['$$', '$$]']],
+    },
+}
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'markdown',
