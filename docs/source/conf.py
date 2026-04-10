@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.mathjax',
-    'sphinx.ext.imgmath',
     'myst_parser',
     "nbsphinx",
     'sphinx_book_theme'
@@ -45,6 +44,3 @@ html_theme = 'sphinx_book_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-# Optional: Configure imgmath settings
-imgmath_image_format = 'svg'  # or 'png'
