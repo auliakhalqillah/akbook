@@ -26,8 +26,8 @@ extensions = [
 mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js'
 mathjax4_config = {
     'tex': {
-        'inlineMath': [['$', '$)']],
-        'displayMath': [['$$', '$$]']],
+        'inlineMath': [['\\(', '\\)']],
+        'displayMath': [['\\[', '\\]']],
     },
 }
 
