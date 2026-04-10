@@ -19,7 +19,7 @@ Probabilistic Seismic Hazard Analysis (PSHA) is the method to quantify the groun
 
 ## Introduction to the main parameters of PSHA
 
-In general, the PSHA aims to answer the question of _how much is the annual frequency of exceedance ($\lambda$) for given a probability of exceedance (PoE) that will exceed for a greater than or equal to ground motion intensity level ($x$) and time window ($t$)_ as written in equation (1) where $IMT$ is intensity measure type (PGA, PGV, or PGD) and $t$ refer to the exposure period (building life expectancy in years). The $\lambda$ is equivalent to the inverse of return period (RP).
+In general, the PSHA aims to answer the question of **how much is the annual frequency of exceedance ($\lambda$) for given a probability of exceedance (PoE) that will exceed for a greater than or equal to ground motion intensity level ($x$) and time window ($t$)** as written in equation (1) where $IMT$ is intensity measure type (PGA, PGV, or PGD) and $t$ refer to the exposure period (building life expectancy in years). The $\lambda$ is equivalent to the inverse of return period (RP).
 
 
 $$\lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = \frac {1}{RP} \tag {1}$$
