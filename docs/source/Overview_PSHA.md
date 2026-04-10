@@ -1,4 +1,10 @@
 # Overview of Probabilistic Seismic Hazard Analysis (PSHA)
+Aulia Khalqillah, S.Si., M.Si.
+Tsunami and Disaster Mitigation Research Center (TDMRC)
+Universitas Syiah Kuala, Banda Aceh, Indonesia
+_auliakhalqillah@usk.ac.id_
+
+&copy;2026
 
 ## Topics
 
@@ -16,22 +22,22 @@ Probabilistic Seismic Hazard Analysis (PSHA) is the method to quantify the groun
 In general, the PSHA aims to answer the question of _how much is the annual frequency of exceedance ($\lambda$) for given a probability of exceedance (PoE) that will exceed for a greater than or equal to ground motion intensity level ($x$) and time window ($t$)_ as written in equation (1) where $IMT$ is intensity measure type (PGA, PGV, or PGD) and $t$ refer to the exposure period (building life expectancy in years). The $\lambda$ is equivalent to the inverse of return period (RP).
 
 
-$$ \lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = \frac {1}{RP} \tag {1}$$
+$$\lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = \frac {1}{RP} \tag {1}$$
 
 Hence, the return period is
 
-$$ RP = \frac {1}{\lambda[IMT \ge x]} \tag {2} $$
+$$RP = \frac {1}{\lambda[IMT \ge x]} \tag {2}$$
 
 In the simple manner, the equation (1) describes the occurrence rate of a single event (e.g. earthquake) will occur within duration of time (return period in years) in any years.
 
 For instance, if the PoE of a certain intensity level that exceed 0.5 g event is $2\%$ or equivalent to the $0.02$ and the building life expectancy is $50$ years, then the $\lambda$ is
 
-$$ \lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = - \frac {ln (1-0.02)}{50} $$
-$$ \lambda[IMT \ge x] = - \frac {ln (1-0.02)}{50} = - \frac {ln(0.98)}{50} = - \frac {-0.02}{50} = 0.0004 $$
+$$\lambda[IMT \ge x] = - \frac {ln (1-PoE)}{t} = - \frac {ln (1-0.02)}{50}$$
+$$\lambda[IMT \ge x] = - \frac {ln (1-0.02)}{50} = - \frac {ln(0.98)}{50} = - \frac {-0.02}{50} = 0.0004$$
 
 and the return period is
 
-$$ RP = \frac {1}{\lambda[IMT \ge x]} = \frac {1}{0.0004} = 2500 $$
+$$RP = \frac {1}{\lambda[IMT \ge x]} = \frac {1}{0.0004} = 2500$$
 
 These values tell us about:
 
@@ -55,7 +61,7 @@ In the comprehensive analysis, the PSHA is conducted through four steps.
 
     Finally, it will provide a hazard curve for each site of interest that depicts the relationship between annual frequency of exceedance (or probability of exceedance) and intensity measure level. The probabilistic calculation is calculated by using the following equation,
 
-    $$ \lambda [IMT \ge x] = \Sigma_{source_i} v_i \int_{M_0}^{M_{max}} \int_{R|M} P[IMT \ge x | M,R] f_M(m) f_{R|M} (r|m) dr dm $$
+   $$\lambda [IMT \ge x] = \Sigma_{source_i} v_i \int_{M_0}^{M_{max}} \int_{R|M} P[IMT \ge x | M,R] f_M(m) f_{R|M} (r|m) dr dm$$
 
     where the
 
@@ -69,7 +75,7 @@ In the comprehensive analysis, the PSHA is conducted through four steps.
 
     - $f_M(m)$ is the probability density function of earthquake magnitude
 
-        $$ f_M(m) = \frac {b \ln (10) 10^{-b(m - m_{min})}}{1 - 10^{-b(m_{max} - m_{min})}}$$
+       $$f_M(m) = \frac {b \ln (10) 10^{-b(m - m_{min})}}{1 - 10^{-b(m_{max} - m_{min})}}$$
 
         for $m_{min} < m < m_{max}$ and $b$ is b-value
 
@@ -98,6 +104,13 @@ In the comprehensive analysis, the PSHA is conducted through four steps.
 
 We will demonstrate the classical calculation of PSHA by using OpenQuake engine. The general and fundamental theory have been explained in above.
 
+**Subtopics**
+
+1. Introduction to the configuration file (job.ini)
+2. Setup seismic source model file (nrml-Natural hazards' Risk Markup Language format in xml extention file)
+3. Setup logic tree file for seismic source model (xml file)
+4. Setup logic tree file for GMPE (xml file)
+
 ## References
 
 1. [Thenhaus, P. C., Campbell, K. W., Chen, W. F., & Scawthorn, C. (2003). Seismic hazard analysis. Earthquake engineering handbook, 8, 1-50.](https://www.researchgate.net/profile/Kenneth-Campbell/publication/329682244_Seismic_hazard_analysis/links/5c194fe7a6fdccfc70586a7e/Seismic-hazard-analysis.pdf)
@@ -106,6 +119,4 @@ We will demonstrate the classical calculation of PSHA by using OpenQuake engine.
 
 3. [Pagani, M., Monelli, D., Weatherill, G. A. and Garcia, J. (2014). Testing procedures adopted in the development of the hazard component of the OpenQuake-engine. Global Earthquake Model (GEM) Technical Report 2014-09, doi: 10.13117/GEM.OPENQUAKE.TR2014.09, 73 pages.](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/OQ%20Testing%20Procedures.pdf)
 
-4. [Pagani, M., Monelli, D., Weatherill, G. A. and Garcia, J. (2014). The OpenQuake-engine
-Book: Hazard. Global Earthquake Model (GEM) Technical Report 2014-08, doi: 10.13117/-
-GEM.OPENQUAKE.TR2014.08, 67 pages.](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/OQ%20Hazard%20Science%201.0.pdf)
+4. [Pagani, M., Monelli, D., Weatherill, G. A. and Garcia, J. (2014). The OpenQuake-engine Book: Hazard. Global Earthquake Model (GEM) Technical Report 2014-08, doi: 10.13117/-GEM.OPENQUAKE.TR2014.08, 67 pages.](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/OQ%20Hazard%20Science%201.0.pdf)
