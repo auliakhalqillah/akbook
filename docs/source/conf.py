@@ -25,10 +25,13 @@ extensions = [
 
 mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js'
 mathjax4_config = {
-    'tex': {
-        'inlineMath': [['\\(', '\\)']],
-        'displayMath': [['\\[', '\\]']],
+    "tex": {
+        "inlineMath": [["$", "$"], ["\\(", "\\)"]],
+        "processEscapes": true
     },
+        "options": {
+            "ignoreHtmlClass": "tex2jax_ignore|mathjax_ignore|document",
+            "processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}
 }
 
 source_suffix = {
