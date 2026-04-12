@@ -1,7 +1,4 @@
-﻿---
-tags: Seismic-Hazard
----
-## Magnitude Frequency Distribution
+# Magnitude Frequency Distribution
 
 In seismic hazard analysis, magnitude frequency distribution (MFD) is one of the important parameter that must be considered. The MFD is used for estimating the number of earthquakes (occurrence rate) of each magnitude bin for a region of interest that follows the [Gutenberg-Richter's Law](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/34/4/185/101140/Frequency-of-earthquakes-in-California?redirectedFrom=fulltext),
 
