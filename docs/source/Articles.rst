@@ -8,3 +8,4 @@ Articles
   How to Write a Sorting Algorithm
   creating_heatmap
   2025-08-23-Seismic-Ambient-Noises-What-Type-of-Waves-Contribute
+  Distribusi Eksponensial vs Distribusi Poisson
