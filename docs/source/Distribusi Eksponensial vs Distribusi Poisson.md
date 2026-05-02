@@ -1,4 +1,7 @@
-﻿# Distribusi Eksponensial vs Distribusi Poisson
+<script>window.MathJax = {"tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]], "processEscapes": true}, "options": {"ignoreHtmlClass": "tex2jax_ignore|mathjax_ignore|document", "processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+<script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
+# Distribusi Eksponensial vs Distribusi Poisson
 Suatu data tidak terlepas dari karakter sebaran data atau yang sering disebut dengan istilah distribusi data. Distribusi menjelaskan sebaran suatu nilai dalam frekuensi (jumlah) atau peluang kemunculan (probabilitas). Beberapa jenis distribusi yang umum diketahui selain distribusi normal dan binomial di antaranya adalah distribusi eksponensial dan distribusi Poisson. Kedua jenis distribusi ini secara umum memiliki kesamaan untuk memodelkan peluang berdasarkan kejadian acak yang terjadi secara independen.
 
 **Distribusi Eksponensial**
