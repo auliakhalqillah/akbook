@@ -17,7 +17,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :hidden:
   :maxdepth: 1
 
-  Basic Python
+  Beginer Python Tutorial
   Fundamental Algorithm using Python
   Pandas
   Machine Learning Practice
