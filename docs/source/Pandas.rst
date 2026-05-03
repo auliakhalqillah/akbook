@@ -1,6 +1,6 @@
 Pandas (Python)
 ===============================
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 10
 
   Handson Pandas (Python)
