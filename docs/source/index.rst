@@ -17,8 +17,7 @@ In this note, you will find the explanation regarding fundamental algorithm, num
   :maxdepth: 1
 
   Beginer Python Tutorial
-  Fundamental Algorithm using Python
-  Pandas
+  Tutorial_Pandas_(Python)
   Machine Learning Practice
   Numerical Methods
   Seismic Hazard
