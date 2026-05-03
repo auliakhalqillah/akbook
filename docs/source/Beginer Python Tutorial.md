@@ -2,7 +2,7 @@
 
 Python is a popular, easy-to-learn programming language used in many fields, including web development, data science, and automation. Python has a simple syntax that makes it beginner-friendly, yet it is powerful enough for professional development.
 
-## How to Install Python and Run Python Code
+### How to Install Python and Run Python Code
 
 To install Python, follow these steps:
 
@@ -14,7 +14,7 @@ To run Python code:
 - Type `python` to start the Python interactive shell (REPL).
 - Alternatively, you can save Python scripts in files with the `.py` extension and run them from the terminal using `python filename.py`.
 
-### Example Code
+#### Example Code
 
 You can test your installation by typing this code in Python:
 
@@ -28,11 +28,11 @@ __Expected Output__
 Hello, World!
 ```
 
-## Types of Variables
+### Types of Variables
 
 Variables in Python are used to store data values. The variable name can be anything (as long as it follows naming rules), and the type of the variable is inferred based on the value assigned to it.
 
-### Example
+#### Example
 
 ```python
 x = 5       # Integer
@@ -50,7 +50,7 @@ print(type(name))  # <class 'str'>
 print(type(is_active))  # <class 'bool'>
 ```
 
-## Types of Data
+### Types of Data
 
 Python has several built-in data types. Here are some of the most common:
 
@@ -62,7 +62,7 @@ Python has several built-in data types. Here are some of the most common:
 - **tuple**: Immutable ordered collection (e.g., `(1, 2, 3)`)
 - **dict**: Collection of key-value pairs (e.g., `{"name": "John", "age": 30}`)
 
-### Example
+#### Example
 
 ```python
 my_list = [1, 2, 3, 4]
@@ -74,7 +74,7 @@ print(type(my_tuple))  # <class 'tuple'>
 print(type(my_dict))  # <class 'dict'>
 ```
 
-## Mathematical Operations
+### Mathematical Operations
 
 Python can handle basic mathematical operations:
 
@@ -86,7 +86,7 @@ Python can handle basic mathematical operations:
 - Exponentiation (`**`)
 - Floor Division (`//`)
 
-### Example
+#### Example
 
 ```python
 a = 10
@@ -113,11 +113,11 @@ __Output__
 3
 ```
 
-## Conditional Statements (If and Else)
+### Conditional Statements (If and Else)
 
 Conditional statements allow us to execute code based on certain conditions using `if`, `elif`, and `else`.
 
-### Example
+#### Example
 
 ```python
 age = 18
@@ -134,15 +134,15 @@ __Output__
 You are an adult.
 ```
 
-## Looping (For and While)
+### Looping (For and While)
 
 Loops allow us to repeat a block of code multiple times.
 
-### For Loop
+#### For Loop
 
 Used to iterate over a sequence (like a list or range).
 
-### Example
+#### Example
 
 ```python
 for i in range(5):
@@ -159,11 +159,11 @@ __Output__
 4
 ```
 
-### While Loop
+#### While Loop
 
 Repeats as long as a condition is `True`.
 
-### Example
+#### Example
 
 ```python
 count = 0
@@ -182,11 +182,11 @@ __Output__
 4
 ```
 
-## Functions
+### Functions
 
 Functions are blocks of reusable code that perform a specific task.
 
-### Example
+#### Example
 
 ```python
 def greet(name):
