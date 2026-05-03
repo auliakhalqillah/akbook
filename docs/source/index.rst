@@ -1,4 +1,4 @@
-Aulia's Note
+About Me
 =================================
 .. meta::
     :description lang=en:
@@ -66,8 +66,3 @@ More Information
   
   Articles
   Important Links
-
-More Information
-================
-
-- auliakhalqillah.mail@gmail.com
