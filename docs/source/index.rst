@@ -13,7 +13,6 @@ In this note, you will find the explanation regarding fundamental algorithm, num
 .. toctree::
   :caption: Topics
   :glob:
-  :numbered:
   :hidden:
   :maxdepth: 1
 
@@ -27,7 +26,6 @@ In this note, you will find the explanation regarding fundamental algorithm, num
 .. toctree::
   :caption: Others
   :glob:
-  :numbered:
   :hidden:
   :maxdepth: 1
   
