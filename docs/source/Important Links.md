@@ -17,6 +17,7 @@
 3. [Earthquakes, Tsunamis and Nuclear Risks, Prediction and Assessment Beyond the Fukushima Accident, Spring Nature, 2016](https://link.springer.com/book/10.1007/978-4-431-55822-4)
 4. [Water and Earthquakes, Wang and Manga, Spring Nature, 2021](https://link.springer.com/book/10.1007/978-3-030-64308-9)
 5. [Programming for Computations – Python- A Gentle Introduction to Numerical Simulations with Python 3.6, Linge and Langtangen, Spring Nature, 2020](https://link.springer.com/book/10.1007/978-3-030-16877-3)
+6. [Profesor Irwan Meilano,GEODESI GEMPABUMI: Memahami Sumber Gempa Mengurangi Risiko Bencana, Orasi Ilmiah Guru Besar Institut Teknologi Bandung, 2024](https://fgb.itb.ac.id/wp-content/uploads/sites/26/2016/08/Ebook-Prof.-Irwan-Meilano-Geodesi-Gempabumi-Memahami-Sumber-Gempa-Mengurangi-Risiko-Bencana.pdf)
 
 # Earthquake Catalogs
 1. [International Seismological Center](https://www.isc.ac.uk/iscbulletin/search/catalogue/)
