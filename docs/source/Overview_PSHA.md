@@ -88,7 +88,7 @@ In the comprehensive analysis, the PSHA is conducted through four steps.
 
 **Requirements**
 
-1. OpenQuake software (seet table below to download). In this tutorial, OpenQuake version of 3.21.0 will be used.
+1. OpenQuake software (seet table below to download). In this tutorial, OpenQuake version of 3.23.2 will be used.
 
     |Operating Systems|Link|
     |--|--|
