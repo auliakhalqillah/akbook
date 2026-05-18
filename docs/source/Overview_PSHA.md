@@ -92,10 +92,10 @@ In the comprehensive analysis, the PSHA is conducted through four steps.
 
     |Operating Systems|Link|
     |--|--|
-    |Installation for Windows | Installation Process - https://docs.openquake.org/oq-engine/master/manual/getting-started/installation-instructions/windows.html|
-    ||Download page - https://downloads.openquake.org/pkgs/windows/oq-engine/|
-    |Installation for Mac OS | https://docs.openquake.org/oq-engine/master/manual/getting-started/installation-instructions/macos.html|
-    |Installation for Ubuntu (Linux) | https://docs.openquake.org/oq-engine/master/manual/getting-started/installation-instructions/index.html|
+    |Installation for Windows | Installation Process - [Link](https://docs.openquake.org/oq-engine/master/manual/getting-started/installation-instructions/windows.html)|
+    ||Download page - [link](https://downloads.openquake.org/pkgs/windows/oq-engine/)|
+    |Installation for Mac OS | [Link](https://docs.openquake.org/oq-engine/master/manual/getting-started/installation-instructions/macos.html)|
+    |Installation for Ubuntu (Linux) | [Link](https://docs.openquake.org/oq-engine/master/manual/getting-started/installation-instructions/index.html)|
 
 2. Quantum GIS software (for mapping) - https://qgis.org/resources/installation-guide/ - In this tutorial will be used version of 3.28.3
 
