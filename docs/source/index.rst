@@ -13,12 +13,13 @@ Universitas Syiah Kuala (USK), Banda Aceh. My research focuses are related to Se
 
 Research Experience
 ===================
-1. The research team on Disaster Risk Assessment (Kajian Risiko Bencana, KRB). Nagan Raya Regency, Aceh, **2024**, *Conducted seismic hazard and risk analysis*
-2.	The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 3rd year, **2024**, Assisted Disaster Risk Financing and Insurance analysis
-3. The research team on Fault Assessment in Banda Aceh and South Aceh, **2023**, *Conducted seismic hazard analysis*
-4. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 2nd year, **2022**, *Conducted seismic risk analysis*
-5. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 1st year, **2021**, *Conducted probabilistic seismic hazard analysis*
-6. The Research team on Active Fault Assessment in Southeast Aceh Region (Gayo Lues, Aceh Tenggara and surrounding), **July - Sep 2018**, *Seismometer Deployment, Microtremor Data Acquisition*
+1.The research team on Seismic Hazard and Risk Assessment in Ambon, **2025**, *Conducted seismic hazard and risk analysis by using an event-based approach*
+2.The research team on Disaster Risk Assessment (Kajian Risiko Bencana, KRB). Nagan Raya Regency, Aceh, **2024**, *Conducted seismic hazard and risk analysis*
+3.	The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 3rd year, **2024**, Assisted Disaster Risk Financing and Insurance analysis
+4. The research team on Fault Assessment in Banda Aceh and South Aceh, **2023**, *Conducted seismic hazard analysis*
+5. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 2nd year, **2022**, *Conducted seismic risk analysis*
+6. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 1st year, **2021**, *Conducted probabilistic seismic hazard analysis*
+7. The Research team on Active Fault Assessment in Southeast Aceh Region (Gayo Lues, Aceh Tenggara and surrounding), **July - Sep 2018**, *Seismometer Deployment, Microtremor Data Acquisition*
 
 Education
 =========
@@ -39,6 +40,10 @@ Software
 ========
 - `SVIM - Seismic Vulnerability Index of Microtremor <https://github.com/auliakhalqillah/SVIM>`_ : The tools to conduct microtremor data processing by implementing the Horizontal to Vertical Spectral Ratio (HVSR) method. This app will calculate a seismic vulnerability index ($$ K_g $$) and visualize an initial spatial map directly. This was built using MATLAB.
 - `hvcheck <https://github.com/auliakhalqillah/hvcheck>`_ : The code to evaluate the reliable and clear of HVSR's peak from the Geopsy output. This was built using Python
+
+Workshop and Training
+=====================
+- From Scenarios to Consequences: Probabilistic Tsunami Risk Analysis(PTRA) with Geo-INQUIRE services, 1-4 June 2026, in GFZ Helmholtz Centre for Geosciences in Potsdam, Germany.
 
 More Information
 ================
