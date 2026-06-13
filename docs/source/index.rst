@@ -62,6 +62,7 @@ More Information
   Machine Learning Practice
   Numerical Methods
   Seismic Hazard
+  PyGMT (Practical)
 
 .. toctree::
   :caption: Others
