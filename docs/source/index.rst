@@ -13,9 +13,9 @@ Universitas Syiah Kuala (USK), Banda Aceh. My research focuses are related to Se
 
 Research Experience
 ===================
-1.The research team on Seismic Hazard and Risk Assessment in Ambon, **2025**, *Conducted seismic hazard and risk analysis by using an event-based approach*
-2.The research team on Disaster Risk Assessment (Kajian Risiko Bencana, KRB). Nagan Raya Regency, Aceh, **2024**, *Conducted seismic hazard and risk analysis*
-3.	The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 3rd year, **2024**, Assisted Disaster Risk Financing and Insurance analysis
+1. The research team on Seismic Hazard and Risk Assessment in Ambon, **2025**, *Conducted seismic hazard and risk analysis by using an event-based approach*
+2. The research team on Disaster Risk Assessment (Kajian Risiko Bencana, KRB). Nagan Raya Regency, Aceh, **2024**, *Conducted seismic hazard and risk analysis*
+3. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 3rd year, **2024**, Assisted Disaster Risk Financing and Insurance analysis
 4. The research team on Fault Assessment in Banda Aceh and South Aceh, **2023**, *Conducted seismic hazard analysis*
 5. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 2nd year, **2022**, *Conducted seismic risk analysis*
 6. The research team of “Riset Inovasi Produktif (RISPRO)”: Decision Support System for Disaster Risk Financing and Insurance Based on Hazard Characteristics (SupeRISKa) 1st year, **2021**, *Conducted probabilistic seismic hazard analysis*
