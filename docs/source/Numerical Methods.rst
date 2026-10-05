@@ -3,5 +3,5 @@ Numerical Methods
 .. toctree::
   :maxdepth: 2
 
-  Solution of Nonlinear Equations
+  Pengenalan_Metode_Numerik
   
