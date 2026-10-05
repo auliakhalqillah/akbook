@@ -4,4 +4,5 @@ Numerical Methods
   :maxdepth: 2
 
   Pengenalan_Metode_Numerik
+  02_Akar_Persamaan
   
