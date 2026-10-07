@@ -1,6 +1,7 @@
 Numerical Methods
 ===============================
 .. image:: imgs/Cover_book_Numerical_Method.jpeg
+  :height: 50px
   :alt: Alternative text
 
 .. toctree::
