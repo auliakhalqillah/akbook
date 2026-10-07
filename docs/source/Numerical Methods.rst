@@ -7,4 +7,5 @@ Numerical Methods
   02_Akar_Persamaan
   03_Pendekatan_Tertutup
   04_Pendekatan_Terbuka
+  05_Integrasi_Numerik
   
