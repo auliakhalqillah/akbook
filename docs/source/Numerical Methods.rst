@@ -13,4 +13,5 @@ Numerical Methods
   04_Pendekatan_Terbuka
   05_Integrasi_Numerik
   06_Diferensiasi_Numerik
+  07_Interpolasi
   
