@@ -1,5 +1,7 @@
 ## Green's Function in Seismology
 
+![](https://github.com/auliakhalqillah/akbook/blob/main/docs/source/imgs/gf.png)
+
 A Green's Function (GF) is one of the fundamental concepts in seismology. It describes the impulse response of an elastic medium to a point source excitation, representing how seismic waves propagate from a specified source location to a recording station. In this context, the Green's Function characterizes the Earth's response to an impulsive seismic source, considering the physical properties and structural configuration of the medium between the source and receiver.
 
 Mathematically, the recorded ground motion can be described through the convolution of the earthquake source-time function and the corresponding Green's Function. For an earthquake represented by a moment tensor, the displacement field is generally expressed as the temporal convolution between the time-dependent moment tensor and the spatial derivatives of the Green's tensor. The Green's Function describes the wave propagation effects, including geometrical spreading, intrinsic attenuation, scattering, reflection, refraction, mode conversion, and local site effects, depending on the complexity of the Earth model used in its calculation.
